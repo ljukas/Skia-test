@@ -27,6 +27,16 @@
     "web": {
       "bundler": "metro",
       "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74f687f6-bcc0-4f64-84ac-152bdf73c48d"
+      }
+    },
+    "owner": "ljukas",
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
     }
   }
 }
